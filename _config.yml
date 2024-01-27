@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://hs-p.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: hs-p # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -73,7 +73,7 @@ theme_mode: dark # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/other/battlerobot.jpg"
+avatar: "/assets/img/other/battlerobot.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
