@@ -8,7 +8,7 @@ html {
     }
 
     &[data-mode='dark'] {
-      @include light-scheme;
+      @include dark-scheme;
     }
   }
 
