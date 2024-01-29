@@ -5,7 +5,7 @@ categories: ['2024', 'K-Community']
 pin: true
 ---
 
-#### 1편을 보지 않았다면, [이전 게시글](https://hs-p.github.io/Kcommunity)를 참고하길 바란다.
+#### 1편을 보지 않았다면, [이전 게시글](https://hs-p.github.io/posts/Kcommunity)를 참고하길 바란다.
 
 # 결과
 
