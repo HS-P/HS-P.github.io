@@ -1,7 +1,7 @@
 ---
 title: Turtlebot3 WafflePI (Ubuntu 22.04)
 date: 2024-01-29 20:50:00 +0900
-categories: ['2024', 'turtlebot3']
+categories: ['2024', 'Turtlebot3']
 pin: true
 ---
 
