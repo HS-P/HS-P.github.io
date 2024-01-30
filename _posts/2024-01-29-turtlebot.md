@@ -5,7 +5,7 @@ categories: ['2024', 'Turtlebot3']
 pin: true
 ---
 
-#Overview
+# Overview
 
 ---
 
@@ -14,14 +14,14 @@ Turtlebot3는 [K-Community 학습 동아리](https://hs-p.github.io/posts/Kcommu
 이 게시글에서 다룰 내용은 터틀봇3 WafflePI, ROS2 Ubuntu 22.04 Humble 환경에서 작업하는 사람들을 위해 작성되었다.  
 *(본 필자는 현재 Raspberry PI 5, Rasbian OS에서 Docker를 이용하여 Ubuntu 22.04, ROS2를 실행하고 있다.)*
 
-#PRE-SETUP
+# PRE-SETUP
 
 --- 
 
 본 기준은 **Turtlebot3 Waffle PI** 를 기준으로 작성되었다.
 혹여 **Burger**라던가, **Waffle**이라면 알아서 잘 걸러서 이해하길 바란다.
 
-##TURTLEBOT
+## TURTLEBOT
 
 터틀봇은 [Robotis](hsttps://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)에서 만든 라즈베리파이와 OPENCR, LAIDAR 센서 등을 잘 조합해서 구매자가 쉽게 사용할 수 있도록 만든 로봇이다.  
 사전 동봉된 물품들만 잘 있다면, 문제 없이 Setup하는 과정을 잘 거칠 수 있다.  
@@ -33,7 +33,7 @@ WafflePI는 기본적으로 가격대가 조금 나간다.
 **조금**이 아닌가? 라는 생각이 들 수도 있지만, 각 부품들의 가격대가 원래 비싸기 때문에 어쩔 수 없는 것 같기도 하다.  
 일반 학생들이 사비로 사기엔 엄두가 나지 않는 큰 금액이다.  
 
-##Installation
+## Installation
 
 설치는 위 로보티즈 사이트에서 상당히 자세하게 설명되어 있다.    
 [[로보티즈 퀵스타트 가이드]](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/)  
