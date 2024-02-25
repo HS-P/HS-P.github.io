@@ -1,6 +1,6 @@
 ---
 title: 2/25 Diary
-date: 2024-02-25 20:00:00 +0900
+date: 2024-02-25 10:00:00 +0900
 categories: ['2024', 'ROS']
 pin: true
 ---
